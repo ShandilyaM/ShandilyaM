@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="145" src="https://synder.com/blog/wp-content/uploads/sites/5/2023/04/data-driven-analytics-and-why-its-important.jpg"  />
+  <img height="250" src="https://synder.com/blog/wp-content/uploads/sites/5/2023/04/data-driven-analytics-and-why-its-important.jpg"  />
 </div>
 
 ###
