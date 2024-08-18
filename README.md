@@ -44,8 +44,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ffree-icon%2Ftableau-5376638&psig=AOvVaw3ZJaMj45SOETFZUwZ8E4fa&ust=1724025155467000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDF9tic_YcDFQAAAAAdAAAAABAE" />
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Fall-assets%2Fmicrosoft-power-bi&psig=AOvVaw3RPqFZzhy6KcGwyiSrbghx&ust=1724025335357000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDzqoGd_YcDFQAAAAAdAAAAABAE" />
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau Logo" width="50" height="50" " />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI Logo" width="50" height="50" " />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/oracle/F80000" height="40" alt="oracle logo"  />
@@ -61,6 +61,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40" alt="salesforce logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  
 </div>
 
 ###
